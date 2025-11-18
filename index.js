@@ -12,8 +12,8 @@ try {
 }
 
 // ✅ Group Info
-const GROUP_THREAD_ID = 1205104104842934";
-const LOCKED_GROUP_NAME = "🤪 HAHAHAH TATTE DAFAN SARI 420 GANG LULEE KHA KE ZAMRAAJ X LOVE X ROCKY ON CALL FARRAA 420 GANG ALL TATAE 😂";
+const GROUP_THREAD_ID ="743021922118325";
+const LOCKED_GROUP_NAME = "🤪 ON FIRÊ LOVE 😘😘😘 😂";
 
 // ✅ Express Server to keep bot alive (for Render or UptimeRobot)
 const app = express();
