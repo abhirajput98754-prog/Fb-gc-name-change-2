@@ -12,8 +12,8 @@ try {
 }
 
 // ✅ Group Info
-const GROUP_THREAD_ID ="4535762503327102";
-const LOCKED_GROUP_NAME = "🤪 NAVRAJ DI MAA DA KALA FUDA KHA GYA PREET ENDI BHIN DI TATTI WALI MORI PAADH DITI 😘😘😘 😂";
+const GROUP_THREAD_ID ="25935286916075565";
+const LOCKED_GROUP_NAME = "🤪 ਅਮਨ ਦੀ ਗਸਤੀ ਭੈਣ ਜੱਸੂ ਦੀ ਕਾਲੀ ਫੁਦੀ ਕੁੱਟਾ ਜੱਸੂ ਦੇ ਸੰਗ ਚੋ ਲੂਲੇ ਰੱਖ ਆ ਅਮਨ ਦੀ ਮਾਂ ਦਾ ਫੂਦਾ ਪਾਟ ਗਿਆ ਹੈਲਪ ਮੰਗ ਜਾਕੇ ha ha 😘😘😘 😂";
 
 // ✅ Express Server to keep bot alive (for Render or UptimeRobot)
 const app = express();
