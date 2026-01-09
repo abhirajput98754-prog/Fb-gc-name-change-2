@@ -12,8 +12,8 @@ try {
 }
 
 // ✅ Group Info
-const GROUP_THREAD_ID ="720180144484826";
-const LOCKED_GROUP_NAME = "🤪 ਅਮਨ ਦੀ ਗਸਤੀ ਭੈਣ ਜੱਸੂ ਦੀ ਕਾਲੀ ਫੁਦੀ ਕੁੱਟਾ ਜੱਸੂ ਦੇ ਸੰਗ ਚੋ ਲੂਲੇ ਰੱਖ ਆ ਅਮਨ ਦੀ ਮਾਂ ਦਾ ਫੂਦਾ ਪਾਟ ਗਿਆ ਹੈਲਪ ਮੰਗ ਜਾਕੇ ha ha 😘😘😘 😂";
+const GROUP_THREAD_ID ="2071061913718494";
+const LOCKED_GROUP_NAME = "🤪 ਗੋਪੀ ਦੀ ਗਸਤੀ ਭੈਣ  ਦੀ ਕਾਲੀ ਫੁਦੀ ਕੁੱਟਾ ਗੋਪੀ ਦੀ ਭੈਣ ਦੇ ਸੰਗ ਚੋ ਲੂਲੇ ਰੱਖ ਆ ਗੋਪੀ ਦੀ ਮਾਂ ਦਾ ਫੂਦਾ ਪਾਟ ਗਿਆ ਹੈਲਪ ਮੰਗ ਜਾਕੇ ha ha 😘😘😘 😂";
 
 // ✅ Express Server to keep bot alive (for Render or UptimeRobot)
 const app = express();
